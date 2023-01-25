@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 
 const loggedStyle = {
-    color: 'blue'
+    color: 'white'
 }
 
 const unloggedStyle = {
